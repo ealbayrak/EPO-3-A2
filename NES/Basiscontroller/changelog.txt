@@ -1,0 +1,4 @@
+25/11/14 - Parallel bit to serial NES interface implemented
+
+TO DO:
+ *Implement switches
